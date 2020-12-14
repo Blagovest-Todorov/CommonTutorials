@@ -8,8 +8,7 @@ namespace CommonTutorilas
         static void Main(string[] args)
         {
 
-            var numbers = new[] { 12.7, 10.3, 6.11, 4.1 };  //array initialisation  //array has a fixed size !
-            // var alone make decision of the type of the variable ;
+
             var grades = new List<double> { 12.7, 10.3, 6.11, 4.1 };  // < -this is an angle bracket // Lsit has dynamic size-chaneagable
             // list is dynamically-sizable collection
             grades.Add(56.1);
@@ -22,7 +21,9 @@ namespace CommonTutorilas
                 result += number;
                 //Console.WriteLine(result);
             }
-            Console.WriteLine(result);
+            //result = result / grades.Count; //to find the average Grade of Education/ Total Sum Result / Count-elements in the List-number of grades
+            result /= grades.Count;
+            Console.WriteLine($"The average grade is {result:N1}");
 
 
 
