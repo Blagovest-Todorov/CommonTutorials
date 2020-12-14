@@ -1,2 +1,0 @@
-# CommonTutorials
-starting new explanations

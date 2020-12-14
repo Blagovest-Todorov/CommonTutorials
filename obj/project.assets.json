@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bla\\source\\repos\\CommonTutorilas\\CommonTutorilas\\CommonTutorilas.csproj",
-      "projectName": "CommonTutorilas",
-      "projectPath": "C:\\Users\\Bla\\source\\repos\\CommonTutorilas\\CommonTutorilas\\CommonTutorilas.csproj",
+      "projectUniqueName": "C:\\Users\\Bla\\source\\repos\\CommonTutorilas\\GradeBook\\GradeBook.csproj",
+      "projectName": "GradeBook",
+      "projectPath": "C:\\Users\\Bla\\source\\repos\\CommonTutorilas\\GradeBook\\GradeBook.csproj",
       "packagesPath": "C:\\Users\\Bla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bla\\source\\repos\\CommonTutorilas\\CommonTutorilas\\obj\\",
+      "outputPath": "C:\\Users\\Bla\\source\\repos\\CommonTutorilas\\GradeBook\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bla\\AppData\\Roaming\\NuGet\\NuGet.Config",
