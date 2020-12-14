@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\CommonTutorilas\CommonTutorilas\bin\Debug\netcoreapp3.1\CommonTutorilas.exe
+C:\Users\Bla\source\repos\CommonTutorilas\CommonTutorilas\bin\Debug\netcoreapp3.1\CommonTutorilas.deps.json
+C:\Users\Bla\source\repos\CommonTutorilas\CommonTutorilas\bin\Debug\netcoreapp3.1\CommonTutorilas.runtimeconfig.json
+C:\Users\Bla\source\repos\CommonTutorilas\CommonTutorilas\bin\Debug\netcoreapp3.1\CommonTutorilas.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\CommonTutorilas\CommonTutorilas\bin\Debug\netcoreapp3.1\CommonTutorilas.dll
+C:\Users\Bla\source\repos\CommonTutorilas\CommonTutorilas\bin\Debug\netcoreapp3.1\CommonTutorilas.pdb
+C:\Users\Bla\source\repos\CommonTutorilas\CommonTutorilas\obj\Debug\netcoreapp3.1\CommonTutorilas.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\CommonTutorilas\CommonTutorilas\obj\Debug\netcoreapp3.1\CommonTutorilas.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\CommonTutorilas\CommonTutorilas\obj\Debug\netcoreapp3.1\CommonTutorilas.AssemblyInfo.cs
+C:\Users\Bla\source\repos\CommonTutorilas\CommonTutorilas\obj\Debug\netcoreapp3.1\CommonTutorilas.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\CommonTutorilas\CommonTutorilas\obj\Debug\netcoreapp3.1\CommonTutorilas.dll
+C:\Users\Bla\source\repos\CommonTutorilas\CommonTutorilas\obj\Debug\netcoreapp3.1\CommonTutorilas.pdb
+C:\Users\Bla\source\repos\CommonTutorilas\CommonTutorilas\obj\Debug\netcoreapp3.1\CommonTutorilas.genruntimeconfig.cache
